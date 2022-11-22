@@ -103,12 +103,4 @@ p {
   font-size: 2em;
   display: flex;
   justify-content: center;
-}
-
-@media (min-width: 2560px) {
-  .container {
-    margin-top: 20em;
-    margin-left: 20em;
-    scale: 2;
-  }
 }/*# sourceMappingURL=style.css.map */
